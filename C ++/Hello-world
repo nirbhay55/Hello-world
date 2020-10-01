@@ -1,0 +1,8 @@
+#include<bits.stdc++.h>
+using namespace std;
+
+int main()
+{
+     // To print hello world in c++ language
+     cout<<"Hello-world" ;
+}
